@@ -1,1 +1,0 @@
-# kimsungbae.github.io
