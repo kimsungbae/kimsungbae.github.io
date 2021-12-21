@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "KimSungBae Github Blog"
 date:   2021-12-21 17:49:46 +0900
 categories: jekyll update
 ---
