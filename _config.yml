@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: KimSungBae Git Blog
-description: KimSungBae Git Blog
+description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kimsungbae.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -64,8 +64,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "KimSungBae Git Blog":
-    - "//https://github.com/kimsungbae"
+  "Just the Docs on GitHub":
+    - "//github.com/pmarsceill/just-the-docs"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
