@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Update History
-nav_order: 9
+nav_order: 3
 has_children: true
 permalink: /docs/update history
 ---
