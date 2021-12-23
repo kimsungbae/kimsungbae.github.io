@@ -1,13 +1,13 @@
 ---
 layout: default
-title: GutHub
+title: Gut
 parent: Self Study
 nav_order: 2
 ---
 
-# GitHub
+# Git
 {: .no_toc }
- GitHub 공부 내용
+ Git 공부 내용
  - 어렵고 헷갈리는 부분 위주로 공부
  - 중간 중간 새로 알게된 부분 추가 예정
 
@@ -21,9 +21,9 @@ nav_order: 2
 
 ---
 
-## GitHub란
+## Git란
 
-GitHub는 파일 관리가 아닌 폴더(Directory) 관리 Tool
+Git은 파일 관리가 아닌 폴더(Directory) 관리 Tool
 폴더(Directory)를 Git에서 관리
 폴더(Directory)를 저장소(Repository)에 업그레이드해서 기능을 추가하기 전까지는 폴더(Directory)는 파일을 가지고 있는 그 이상도 아님.
 
