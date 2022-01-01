@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gut
+title: Git
 parent: Self Study
 nav_order: 2
 ---
