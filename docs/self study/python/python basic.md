@@ -1,17 +1,13 @@
 ---
 layout: default
-title: python
-parent: Self Study
+title: Python Basic
+parent: Python
 nav_order: 1
 ---
 
-# python
+# Python Basic
 {: .no_toc }
- 파이썬 내용 정리
- - 데이터 분석하면서 파이썬 코드 짜는 부분에서 막힘 발생
- - 나만의 파이썬 백과사전 정리
- - 처음 한번 슥 정리 후, 중간 중간 새로 알게된 부분 추가 정리
-
+ 
 
 ## Table of contents
 {: .no_toc .text-delta }
